@@ -1,2 +1,2 @@
 # Cocktails-API-React
-Created with CodeSandbox
+Deployed on: https://csb-mq8fsh.netlify.app/
